@@ -6,7 +6,7 @@ Laravel web application.
 database MariaDB
 
 ```bash
-php composer.phar install
+composer install
 cp .env.example .env
 php artisan key:generate
 ```
